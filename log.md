@@ -1,12 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: Nov 15, 2018 
+### Day 1: Nov 15, 2018 
+**Time invested:** 1 hr
 
 **Today's Progress**: Finally started the 100 days of code. Learning about HTML again. Learned about tags and input forms. 
+**Milestone:** Completed Intro to HTML & HTML5 on [FreecodeCamp](https://freecodecamp.org)
 
-**Thoughts:** I keep starting and stopping with this web design thing but I have no excuses now! I've committed to it publicly, but most of all, I need accountabilibuddies to help me stay on track. I want to be a really good junior dev with JS by June 2019. 
+**Thoughts:** I kept starting and stopping with this web design thing since 2013 but I have no excuses now. I've committed to it publicly, but most of all, I need accountabilibuddies to help me stay on track. 
+**Goal:** I want to be a really good junior dev with JS by June 2019. 
 
 **Link to work:** [Creating a Radio Button in HTML](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons)
-
+**Any Photos?** https://ibb.co/bNMQEf
 ___
 
