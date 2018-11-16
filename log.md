@@ -16,3 +16,18 @@
 **Any Photos?** https://ibb.co/bNMQEf
 ___
 
+### Day 2: Nov 16, 2018 
+**Time invested:** 
+
+**Today's Progress**: 
+
+**Milestone:** 
+
+**Thoughts:** 
+
+
+**Link to work:** [Creating a Radio Button in HTML](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons)
+
+**Any Photos?** https://ibb.co/bNMQEf
+___
+
