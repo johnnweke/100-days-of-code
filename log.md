@@ -17,17 +17,41 @@
 ___
 
 ### Day 2: Nov 16, 2018 
+**Time invested:** 1 hr
+
+**Today's Progress**: I started on CSS Findamentals with Freecode camp today. 
+
+**Milestone:** Completed 18 checkpoints within 1 hr. 
+
+**Thoughts:** I think doing the code sprints in the morning will be better. I am technically doing them Saturday morning of the 17th at 2am because I didn't get to it earlier on the 16th. I'm also learning to take notes with Evernote. Putting my phone on airplane mode helps avoid distractions. 
+
+**Link to work:** [Adding Negative Margins to Elements](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-a-negative-margin-to-an-element)
+
+**Any Photos?** https://ibb.co/ioxZAL
+___
+
+### Day 3: Sat, Nov 17, 2018 
 **Time invested:** 
 
-**Today's Progress**: 
+**Today's Progress**:  
 
 **Milestone:** 
 
 **Thoughts:** 
 
+**Link to work:** [Adding Negative Margins to Elements](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-a-negative-margin-to-an-element)
 
-**Link to work:** [Creating a Radio Button in HTML](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons)
-
-**Any Photos?** https://ibb.co/bNMQEf
+**Any Photos?** https://ibb.co/ioxZAL
 ___
+
+
+
+
+
+
+
+
+
+
+
 
