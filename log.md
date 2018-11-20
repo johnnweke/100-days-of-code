@@ -45,7 +45,7 @@ ___
 ___
 
 
-### Day 4: Mon, Nov 19, 2018 
+### Day 4: Tue, Nov 20, 2018 
 **Time invested:** 
 
 **Today's Progress**:  
