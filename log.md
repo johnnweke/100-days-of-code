@@ -16,7 +16,7 @@
 **Any Photos?** https://ibb.co/bNMQEf
 ___
 
-### Day 2: Nov 16, 2018 
+### Day 2: Friday, Nov 16, 2018 
 **Time invested:** 1 hr
 
 **Today's Progress**: I started on CSS Findamentals with Freecode camp today. 
@@ -30,7 +30,22 @@ ___
 **Any Photos?** https://ibb.co/ioxZAL
 ___
 
-### Day 3: Sat, Nov 17, 2018 
+### Day 3: Mon, Nov 19, 2018 
+**Time invested:** 2 hrs+
+
+**Today's Progress**:  Learned about CSS Variables - basically functions in CSS! Who knew CSS could act as a pseudo-programming language? Started learning about media queries. CSS has A LOT of stuff. Looking forward to using it all though. 
+
+**Milestone:** Completed the **Basic Intro to CSS** section; Started the **Applied Design** section 
+
+**Thoughts:** I missed 2 days of the program, I was trying to make up. I am learning the power of compounded continuity though. Freecodecamp's bite sized chunks is really making this easier to digest. Thank You @freecodecamp!
+
+**Link to work:** [Using CSS Variables to change Media Queries](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
+
+**Any Photos?** https://ibb.co/h6CaqL  |  https://ibb.co/cUBDc0
+___
+
+
+### Day 4: Mon, Nov 19, 2018 
 **Time invested:** 
 
 **Today's Progress**:  
@@ -39,12 +54,10 @@ ___
 
 **Thoughts:** 
 
-**Link to work:** [Adding Negative Margins to Elements](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-a-negative-margin-to-an-element)
+**Link to work:** [Using CSS Variables to change Media Queries](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
 
-**Any Photos?** https://ibb.co/ioxZAL
+**Any Photos?** https://ibb.co/h6CaqL  |  https://ibb.co/cUBDc0
 ___
-
-
 
 
 
